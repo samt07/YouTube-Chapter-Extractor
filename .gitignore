@@ -1,0 +1,60 @@
+# Video files and temporary downloads (can be large)
+extracted_segments/
+segments/
+temp_downloads/
+
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit secrets (if any)
+.streamlit/secrets.toml
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp 

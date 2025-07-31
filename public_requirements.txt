@@ -1,0 +1,7 @@
+# Public Deployment Requirements for YouTube Chapters Extractor
+streamlit>=1.28.0
+yt-dlp>=2023.7.6
+moviepy>=1.0.3
+pathlib2>=2.3.7
+psutil>=5.9.0
+
